@@ -1,0 +1,70 @@
+{
+	"info": {
+		"name": "Codemash",
+		"_postman_id": "79d9618c-e999-d611-fe4c-19d0c1522626",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Session Data",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "https://speakers.codemash.org/api/SessionsData?type=json",
+					"protocol": "https",
+					"host": [
+						"speakers",
+						"codemash",
+						"org"
+					],
+					"path": [
+						"api",
+						"SessionsData"
+					],
+					"query": [
+						{
+							"key": "type",
+							"value": "json",
+							"equals": true
+						}
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Speaker Data",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "https://speakers.codemash.org/api/SpeakersData?type=json",
+					"protocol": "https",
+					"host": [
+						"speakers",
+						"codemash",
+						"org"
+					],
+					"path": [
+						"api",
+						"SpeakersData"
+					],
+					"query": [
+						{
+							"key": "type",
+							"value": "json",
+							"equals": true
+						}
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
