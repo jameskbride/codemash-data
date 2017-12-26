@@ -1438,7 +1438,7 @@
       "Orange"
     ],
     "Title": "Fast Neural Networks… a no brainer!",
-    "Abstract": "Artificial Neural Networks are a fascinating computational approach modeled to react similar to a biological brain to solve problems.  Neural networks are a very powerful tool that enable machines to teach and evolve themselves.  You can utilize this power in almost any application.  Don’t be intimidated by the equations and Greek symbols of this cutting-edge technology, I will guide you on how to slay this technology and make it bend to your will.  \r\n \r\nIn this session, we are going to demystify the apparent Neural Networks complexity without the need of mathematical background providing an approachable overview. There will be very little math and lots of coding. The goal is for everyone to become acquainted with Neural Network from a pragmatic standpoint.\r\n \r\nJust when you think it couldn’t get any better, I will show you how to employ the functional paradigm to leverage multicore machines and GPUs to make your neural networks predictions infinitely faster through parallelism. \r\n \r\nBy the end of this talk, you will learn the basic concepts of Neural Network and how to apply functional concurrency to estimate future stock prices at blazing fast speeds…and perhaps get rich while practicing.\r\n",
+    "Abstract": "Artificial Neural Networks are a fascinating computational approach modeled to react similar to a biological brain to solve problems.  Neural networks are a very powerful tool that enable machines to teach and evolve themselves.  You can utilize this power in almost any application.  Don’t be intimidated by the equations and Greek symbols of this cutting-edge technology, I will guide you on how to slay this technology and make it bend to your will.  \r\n \r\nIn this session, we are going to demystify the apparent Neural Networks complexity without the need of mathematical background providing an approachable overview. There will be very little math and lots of coding. The goal is for everyone to become acquainted with Neural Network from a pragmatic standpoint.\r\n \r\nJust when you think it couldn’t get any better, I will show you how to employ the functional paradigm to leverage multicore machines and GPUs to make your neural networks predictions infinitely faster through parallelism. \r\n \r\nBy the end of this talk, you will learn the basic concepts of Neural Network and how to apply functional concurrency to estimate future stock prices at blazing fast speeds…and perhaps get rich while practicing.\r\n",
     "SessionType": "General Session",
     "Tags": [
       ".NET",
@@ -1709,32 +1709,6 @@
         "FirstName": "Brian",
         "LastName": "Genisio",
         "GravatarUrl": "//www.gravatar.com/avatar/170325813beddd7418a3b55ffbf378f9"
-      }
-    ]
-  },
-  {
-    "Id": 7650,
-    "SessionTime": "0001-01-01T00:00:00",
-    "SessionStartTime": "2018-01-11T09:15:00",
-    "SessionEndTime": "2018-01-11T10:15:00",
-    "Room": null,
-    "Rooms": [
-      "Salon A"
-    ],
-    "Title": "A Tale of Two Offices: Being Sober & Sick in the Workplace",
-    "Abstract": "Before my health started declining, I never gave a second thought to all the possible obstacles that could stop me from being productive and social at work. Stairs and happy hours posed no threat. Now, they can easily ruin my day. To a person with an invisible struggle, whether depression, chronic fatigue, or addiction, the office turns into an exhausting obstacle course that often feels alienating. This talk is structured as advice I’d give my former self on practicing empathy for your coworkers for a more inclusive workplace.",
-    "SessionType": "General Session",
-    "Tags": [
-      "Soft Skills / Business",
-      "Other"
-    ],
-    "Category": "Project Leadership/Soft Skills",
-    "Speakers": [
-      {
-        "Id": "53ea4b14-71b0-4d50-b32f-22eda084f2f5",
-        "FirstName": "Stacy",
-        "LastName": "Harrison",
-        "GravatarUrl": "//www.gravatar.com/avatar/95d94cf9b7bbf6a867fdc45b8cef5b17"
       }
     ]
   },
@@ -2027,7 +2001,7 @@
     "Id": 7696,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-11T10:30:00",
-    "SessionEndTime": "2018-01-10T11:30:00",
+    "SessionEndTime": "2018-01-11T11:30:00",
     "Room": null,
     "Rooms": [
       "Acacia - Sessionz"
@@ -2945,7 +2919,7 @@
       "Orange"
     ],
     "Title": "Hacking healthcare: real-world applications and challenges of health informatics",
-    "Abstract": "Our healthcare system is at a tipping point, and fixing it is one of the most important challenges we face today. \r\n\r\nIn this session, you'll learn what we technologists bring to the table to improve patient outcomes and make healthcare safer and more cost effective.  You'll also learn what goes on with your medical and insurance data behind the scenes at your doctor's office.\r\n\r\nNo specific programming language knowledge is required for this birds eye view of the taxonomies, workflows, standards, and APIs that form the infrastructure  of our nation's health care system.\r\n",
+    "Abstract": "Our healthcare system is at a tipping point, and fixing it is one of the most important challenges we face today. \r\n\r\nIn this session, you'll learn what we technologists bring to the table to improve patient outcomes and make healthcare safer and more cost effective.  You'll also learn what goes on with your medical and insurance data behind the scenes at your doctor's office.\r\n\r\nNo specific programming language knowledge is required for this birds eye view of the taxonomies, workflows, standards, and APIs that form the infrastructure  of our nation's health care system.\r\n",
     "SessionType": "General Session",
     "Tags": [
       "Other"
@@ -3251,7 +3225,7 @@
       "Tamarind"
     ],
     "Title": "Code Hosting: The Key to Autonomous, Self-Service Development",
-    "Abstract": "(Presented by Chuck Gehman)\r\n\r\nWhile developers differ in their selection of tools and coding language of choice, many face the same challenges that are hindering productivity. Often times, developers have to use multiple systems to manage their source code and project artifacts. Couple that with the highly distributed nature of today’s work environment, and it’s no wonder why development teams lack visibility and a holistic view of the entire software development lifecycle. This can be problematic, especially in light of increasingly shorter turnaround times for bringing products to market. \r\n\r\nCode hosting and collaboration platforms, on the other hand, solve those challenges. During the presentation, Chuck Gehman, technical marketing engineer at Perforce, will talk about why these platforms are needed for today’s developers and how they create a consolidated environment that allows developers to be autonomous, and as a result, more productive. \r\n\r\nSpecifically, Gehman will delve into the following benefits of code hosting platforms:\r\n•\tSelf-Service: Rather than waiting on IT, project managers can fulfill their own requests through fine-grained permissions and delegated user management with the LDAP/AD system.\r\n•\tDeveloper Flexibility: Modern platforms are now accommodating multi-repos and repository types (e.g., Git, Subversion, Maven, etc.) in one project. This is allowing development teams to exploit all of their development resources while maintaining a single source of truth.\r\n•\tAutomation: Code hosting platforms automate processes (e.g., build notifications, repo creation) to the greatest extent possible, enabling developers to focus on developing the actual software.\r\n•\tSeamless Collaboration: Code hosting platforms streamline code reviews with merge request code reviews and flexible developer workflows. What’s more, users can set permission on feature branch workflows so approvals are required to merge changes. \r\n•\tContinuous Integration and Continuous Delivery: Rather than isolating development from downstream processes, code hosting platforms synchronize with the continuous integration server and development tool chain (e.g., Jira, Slack, Jenkins) for continuous delivery. ",
+    "Abstract": "(Presented by Gunnar Ostergren)\r\n\r\nWhile developers differ in their selection of tools and coding language of choice, many face the same challenges that are hindering productivity. Often times, developers have to use multiple systems to manage their source code and project artifacts. Couple that with the highly distributed nature of today’s work environment, and it’s no wonder why development teams lack visibility and a holistic view of the entire software development lifecycle. This can be problematic, especially in light of increasingly shorter turnaround times for bringing products to market. \r\n\r\nCode hosting and collaboration platforms, on the other hand, solve those challenges. During the presentation, Chuck Gehman, technical marketing engineer at Perforce, will talk about why these platforms are needed for today’s developers and how they create a consolidated environment that allows developers to be autonomous, and as a result, more productive. \r\n\r\nSpecifically, Gehman will delve into the following benefits of code hosting platforms:\r\n•\tSelf-Service: Rather than waiting on IT, project managers can fulfill their own requests through fine-grained permissions and delegated user management with the LDAP/AD system.\r\n•\tDeveloper Flexibility: Modern platforms are now accommodating multi-repos and repository types (e.g., Git, Subversion, Maven, etc.) in one project. This is allowing development teams to exploit all of their development resources while maintaining a single source of truth.\r\n•\tAutomation: Code hosting platforms automate processes (e.g., build notifications, repo creation) to the greatest extent possible, enabling developers to focus on developing the actual software.\r\n•\tSeamless Collaboration: Code hosting platforms streamline code reviews with merge request code reviews and flexible developer workflows. What’s more, users can set permission on feature branch workflows so approvals are required to merge changes. \r\n•\tContinuous Integration and Continuous Delivery: Rather than isolating development from downstream processes, code hosting platforms synchronize with the continuous integration server and development tool chain (e.g., Jira, Slack, Jenkins) for continuous delivery. ",
     "SessionType": "Sponsor Session",
     "Tags": [],
     "Category": "Project Leadership/Soft Skills",
@@ -3312,6 +3286,29 @@
     ]
   },
   {
+    "Id": 7866,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T14:15:00",
+    "SessionEndTime": "2018-01-11T15:00:00",
+    "Room": null,
+    "Rooms": [
+      "Mangrove"
+    ],
+    "Title": "Hacking the Geeny Motor Speedway: IoT and its Challenges",
+    "Abstract": "(Presented by William Light)\r\n\r\nWhat happens when you want to make something new from a childhood classic? In this discussion we explore how we brought to life a slot car race track with some (lots of … ) code, a couple arduinos, an IoT platform, and some creativity while discovering first hand some the challenges of IoT.  ",
+    "SessionType": "Sponsor Session",
+    "Tags": [],
+    "Category": "Hardware/IoT",
+    "Speakers": [
+      {
+        "Id": "a2509903-b373-4139-9e0b-e7907ac69dc0",
+        "FirstName": null,
+        "LastName": "Geeny",
+        "GravatarUrl": "//www.gravatar.com/avatar/69eaeefcd6dd37897de3b38954a5a961"
+      }
+    ]
+  },
+  {
     "Id": 7847,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-11T14:15:00",
@@ -3322,7 +3319,7 @@
       "Wisteria"
     ],
     "Title": "Intro to IOT with RaspberryPi SenseHat and Azure",
-    "Abstract": "(Presented by Roberto Hernandez)\r\n\r\nComing Soon!",
+    "Abstract": "(Presented by Roberto Hernandez)\r\n\r\nThe Internet Of Things (IOT) is upon us! Let's rejoice and be nerds, in this session come enjoy a simple introduction to the Sense HAT Raspberry PI shield. No prior knowledge of the Raspberry PI, sensor or electronics required. We will build real life samples of what can be done for fun with a simple Raspberry PI and a Sense HAT shield.  As a bonus, we will integrate our Rasberry PI and the metrics gathered from the Sense HAT with the Microsoft Cloud.",
     "SessionType": "Sponsor Session",
     "Tags": [],
     "Category": "Hardware/IoT",
@@ -3493,29 +3490,6 @@
         "FirstName": null,
         "LastName": "ICC",
         "GravatarUrl": "//www.gravatar.com/avatar/1ec665be26ef0354a0ce17f05c839e51"
-      }
-    ]
-  },
-  {
-    "Id": 7866,
-    "SessionTime": "0001-01-01T00:00:00",
-    "SessionStartTime": "2018-01-11T14:15:00",
-    "SessionEndTime": "2018-01-11T15:00:00",
-    "Room": null,
-    "Rooms": [
-      "Mangrove"
-    ],
-    "Title": "Thursday Sponsor Session",
-    "Abstract": "TBD",
-    "SessionType": "Sponsor Session",
-    "Tags": [],
-    "Category": "Hardware/IoT",
-    "Speakers": [
-      {
-        "Id": "a2509903-b373-4139-9e0b-e7907ac69dc0",
-        "FirstName": null,
-        "LastName": "Geeny",
-        "GravatarUrl": "//www.gravatar.com/avatar/69eaeefcd6dd37897de3b38954a5a961"
       }
     ]
   },
@@ -5069,7 +5043,7 @@
       "Acacia - Sessionz"
     ],
     "Title": "[KidzMash]  Movie Making: Script to Magic",
-    "Abstract": "Do we not see it every time we watch a movie?  It can be in the form of a cute animated talking mouse, an intricately-designed costume, or a well written line.  You are left in awe of the magic you can only see on screen.  But what if you could produce the things that make you like movies?  Daniel Wood will guide you to write, act, film, and edit a short movie based off \"*The Three Little Pigs*\".  In this session, you and your team mates will make a movie, learn more about the process of movie making, and get an introduction to editing your own videos.  So, if you want to get a career in movie making, or simply want to make better YouTube videos, this session is for you!  (I suggest this session to 6-12-years old.) ",
+    "Abstract": "Do we not see it every time we watch a movie?  It can be in the form of a cute animated talking mouse, an intricately-designed costume, or a well written line.  You are left in awe of the magic you can only see on screen.  But what if you could produce the things that make you like movies?  Daniel Wood will guide you to write, act, film, and edit a short movie based off \"*The Three Little Pigs*\".  In this session, you and your team mates will make a movie, learn more about the process of movie making, and get an introduction to editing your own videos.  So, if you want to get a career in movie making, or simply want to make better YouTube videos, this session is for you!  (I suggest this session to 6-12-years old.) ",
     "SessionType": "Kidz Mash",
     "Tags": [
       "Other"
@@ -5844,25 +5818,25 @@
     ]
   },
   {
-    "Id": 7865,
+    "Id": 7864,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-12T13:30:00",
     "SessionEndTime": "2018-01-12T14:15:00",
     "Room": null,
     "Rooms": [
-      "Orange"
+      "Salon H"
     ],
-    "Title": "Friday Sponsor Session",
-    "Abstract": "TBD",
+    "Title": "Attracting and Retaining Top Technical Talent",
+    "Abstract": "(Presented by Peg Bogema & Dave Sweeton)\r\n\r\nTBD",
     "SessionType": "Sponsor Session",
     "Tags": [],
-    "Category": "Architecture",
+    "Category": "Project Leadership/Soft Skills",
     "Speakers": [
       {
-        "Id": "a7080822-9ec2-4479-8c50-4adc7e565a4e",
+        "Id": "33fd3305-8986-425e-8656-6b5cc463c847",
         "FirstName": null,
-        "LastName": "Quicken Loans",
-        "GravatarUrl": "//www.gravatar.com/avatar/be09fcbfda808786c84654fb5e06de13"
+        "LastName": "Stout Systems",
+        "GravatarUrl": "//www.gravatar.com/avatar/b56c2d09a5295b8d5167587df06a749a"
       }
     ]
   },
@@ -5875,8 +5849,8 @@
     "Rooms": [
       "Mangrove"
     ],
-    "Title": "Friday Sponsor Session",
-    "Abstract": "TBD",
+    "Title": "Hacking the Geeny Motor Speedway: IoT and its Challenges",
+    "Abstract": "(Presented by William Light)\r\n\r\nWhat happens when you want to make something new from a childhood classic? In this discussion we explore how we brought to life a slot car race track with some (lots of … ) code, a couple arduinos, an IoT platform, and some creativity while discovering first hand some the challenges of IoT.  ",
     "SessionType": "Sponsor Session",
     "Tags": [],
     "Category": "Hardware/IoT",
@@ -5886,6 +5860,29 @@
         "FirstName": null,
         "LastName": "Geeny",
         "GravatarUrl": "//www.gravatar.com/avatar/69eaeefcd6dd37897de3b38954a5a961"
+      }
+    ]
+  },
+  {
+    "Id": 7865,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-12T13:30:00",
+    "SessionEndTime": "2018-01-12T14:15:00",
+    "Room": null,
+    "Rooms": [
+      "Orange"
+    ],
+    "Title": "Leadership Lessons from World of Warcraft",
+    "Abstract": "(Presented by Ish Amin)\r\n\r\nWhen I started to go down the path of leadership I was asked \"Why do you want to be a leader?\" It didn't take me long to respond with \"Well, I was a pretty good leader in World of Warcraft\".\r\n \r\nLeadership skills can grow in any environment where you work with people. I will take you on my journey through World of Warcraft and the parallels of leading within a game and leadership in the real world.",
+    "SessionType": "Sponsor Session",
+    "Tags": [],
+    "Category": "Architecture",
+    "Speakers": [
+      {
+        "Id": "a7080822-9ec2-4479-8c50-4adc7e565a4e",
+        "FirstName": null,
+        "LastName": "Quicken Loans",
+        "GravatarUrl": "//www.gravatar.com/avatar/be09fcbfda808786c84654fb5e06de13"
       }
     ]
   },

@@ -519,7 +519,7 @@
     "Id": "6e184f25-e5be-4335-a218-38f1c360683a",
     "FirstName": "Jacob",
     "LastName": "Coulter",
-    "Biography": "Jacob Coulter is an Agile Software Development Coach at LeanDog. He has been practicing and teaching Agile Software Development for over a decade. During a career report in the 4th grade, Jacob discovered that programmers get payed a lot of money to play with computers.  \"This,\" he thought, \"is good.\"  Now Jacob is on a quest to share the joy of software craftsmanship by reminding others that this is supposed to be fun!\r\n\r\nHis eldest daughter Rachel (age 12) and son Nathan (age 10) gave their first official session at KidzMash in 2017.  Since then, they have started KidsTeaching.tech and have published more than a dozen technology training videos on youtube.",
+    "Biography": "Jacob Coulter is an Agile Software Development Coach at LeanDog. He has been practicing and teaching Agile Software Development for over a decade. During a career report in the 4th grade, Jacob discovered that programmers get payed a lot of money to play with computers.  \"This,\" he thought, \"is good.\"  Now Jacob is on a quest to share the joy of software craftsmanship by reminding others that this is supposed to be fun!\r\n\r\nHis eldest daughter Rachel (age 12) and son Nathan (age 10) gave their first official session at KidzMash in 2017.  Since then, they have started KidsTeaching.tech and have published more than a dozen technology training videos on youtube.",
     "GravatarUrl": "//www.gravatar.com/avatar/1bee05494da1a3cf92a477c2182d12c2",
     "TwitterLink": "",
     "GitHubLink": "https://github.com/jcoulter",
@@ -1111,20 +1111,6 @@
     "BlogUrl": null,
     "SessionIds": [
       "7708"
-    ]
-  },
-  {
-    "Id": "53ea4b14-71b0-4d50-b32f-22eda084f2f5",
-    "FirstName": "Stacy",
-    "LastName": "Harrison",
-    "Biography": "In trying to be omniscient, Stacy's worked as a designer, marketer, copywriter, and now has made the plunge into becoming a software developer. Through all of these roles, accessibility, empathy, and diversity in tech (and beyond) has been her focus.  Recent health issues have brought these ideas even closer to home, which has prompted her to ask: How can a person make the work place a more welcoming and inclusive environment?",
-    "GravatarUrl": "//www.gravatar.com/avatar/95d94cf9b7bbf6a867fdc45b8cef5b17",
-    "TwitterLink": "https://twitter.com/stacyeharrison",
-    "GitHubLink": "https://github.com/acespacecase",
-    "LinkedInProfile": "https://www.linkedin.com/in/stacy-harrison/",
-    "BlogUrl": null,
-    "SessionIds": [
-      "7650"
     ]
   },
   {
@@ -1877,7 +1863,7 @@
     "Id": "7c05528e-9c9e-4643-ae9d-44c2dd0d6ebc",
     "FirstName": "Kendall",
     "LastName": "Miller",
-    "Biography": "Kendall Miller is one of the founding partners of Gibraltar Software, an Independent Software Vendor (ISV) that develops & markets commercial applications for .NET developers.  Introduced in 2009, Loupe is an application logging & monitoring platform that is currently used by customers around the world from individual consultants through Fortune 100 companies and governments.\r\n\r\nBefore starting Gibraltar Software, Kendall worked for multiple startups leading their technology development from beginning through profitability.  In each case he's focused on translating enterprise-level performance and capabilities down to smaller companies. \r\n\r\nKendall has a B.S in Computer Engineering from the University of Illinois, Urbana-Champaign.",
+    "Biography": "Kendall Miller is one of the founding partners of Gibraltar Software, an Independent Software Vendor (ISV) that develops & markets commercial applications for .NET developers.  Introduced in 2009, Loupe is an application logging & monitoring platform that is currently used by customers around the world from individual consultants through Fortune 100 companies and governments.\r\n\r\nBefore starting Gibraltar Software, Kendall worked for multiple startups leading their technology development from beginning through profitability.  In each case he's focused on translating enterprise-level performance and capabilities down to smaller companies. \r\n\r\nKendall has a B.S in Computer Engineering from the University of Illinois, Urbana-Champaign.",
     "GravatarUrl": "//www.gravatar.com/avatar/a87b3e5d0ca534464f3f5d302a3456ce",
     "TwitterLink": "https://twitter.com/kendallmiller",
     "GitHubLink": "https://github.com/kendallmiller",
@@ -2575,6 +2561,20 @@
     ]
   },
   {
+    "Id": "33fd3305-8986-425e-8656-6b5cc463c847",
+    "FirstName": null,
+    "LastName": "Stout Systems",
+    "Biography": null,
+    "GravatarUrl": "//www.gravatar.com/avatar/b56c2d09a5295b8d5167587df06a749a",
+    "TwitterLink": "",
+    "GitHubLink": "",
+    "LinkedInProfile": null,
+    "BlogUrl": "http://www.stoutsystems.com/",
+    "SessionIds": [
+      "7864"
+    ]
+  },
+  {
     "Id": "7c1591aa-12ca-4ef4-ae3d-2acd2583adf9",
     "FirstName": "Jamie",
     "LastName": "Strauss",
@@ -2836,7 +2836,7 @@
     "Id": "11df87c5-0f19-493a-92a7-f8b175c51aee",
     "FirstName": "Daniel",
     "LastName": "Wood",
-    "Biography": "Daniel Wood is 12 years old and lives in Northern Kentucky with his mom, Jerra; his dad, Michael; his Shiba Inu dog, Teal’c; and a couple of triops.  His hobbies include reading, writing, amateur radio and soccer.  He has been a counselor-in-training at Camp Invention, has helped his mom teach Mindreading 101 at KidzMash last year, and is a First-Class Scout. ",
+    "Biography": "Daniel Wood is 12 years old and lives in Northern Kentucky with his mom, Jerra; his dad, Michael; his Shiba Inu dog, Teal’c; and a couple of triops.  His hobbies include reading, writing, amateur radio and soccer.  He has been a counselor-in-training at Camp Invention, has helped his mom teach Mindreading 101 at KidzMash last year, and is a First-Class Scout. ",
     "GravatarUrl": "//www.gravatar.com/avatar/ce96486a0a3db2ee45f45d4802d20cc4",
     "TwitterLink": "",
     "GitHubLink": "",
