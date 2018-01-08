@@ -21,7 +21,7 @@
     "GravatarUrl": "//www.gravatar.com/avatar/ce9356a177df8b59c28d72c7dc2d64be",
     "TwitterLink": "https://twitter.com/luckgirliegirl",
     "GitHubLink": "",
-    "LinkedInProfile": "https://www.linkedin.com/in/luckygirl",
+    "LinkedInProfile": "https://www.linkedin.com/in/luckygirliegirl",
     "BlogUrl": "http://iamagoodmix.com/blog",
     "SessionIds": [
       "7796",
@@ -103,7 +103,7 @@
     "Id": "0b5ab315-3912-45c1-83bc-48f59515e66f",
     "FirstName": "Kim",
     "LastName": "Arnett",
-    "Biography": "Kim Arnett is an iOS Developer at DXC.technology. She enjoys watching her creations work wonders while making a positive impact on the population. She's interested in technology, feminism, mental health, and Iron Man. Current side project includes learning robotics & AR.\r\n",
+    "Biography": "Kim Arnett is an iOS Developer at Expedia. She enjoys watching her creations work wonders while making a positive impact on the population. She's interested in technology, feminism, mental health, and Iron Man. Current side project includes learning robotics & AR.\r\n",
     "GravatarUrl": "//www.gravatar.com/avatar/b75a6021716a4dadf2edce7d882e4796",
     "TwitterLink": "https://twitter.com/kimberlypilbeam",
     "GitHubLink": "https://github.com/karnett",
@@ -694,7 +694,7 @@
     "TwitterLink": "https://twitter.com/quorralyne",
     "GitHubLink": "https://github.com/quorralyne",
     "LinkedInProfile": "https://www.linkedin.com/in/heathermdowning/",
-    "BlogUrl": "http://digitallightcycle.blogspot.com/",
+    "BlogUrl": "https://www.quorralyne.com",
     "SessionIds": [
       "7404"
     ]
@@ -717,7 +717,7 @@
     "Id": "5fbd101a-6962-499d-a733-37f9cfd14c00",
     "FirstName": "Sarah",
     "LastName": "Dutkiewicz",
-    "Biography": "Sarah Dutkiewicz is a cross-platform technologist.  Whether it’s managing the C# and Java Online programs or using Visual Studio Code on a Mac for an Online JavaScript course for The Software Guild or following her technical curiosity down paths such as playing with R Tools for Visual Studio while learning R on Coursera, Sarah loves to find ways to incorporate Microsoft tools wherever she goes, on whatever platform.  She has been working with Microsoft’s technologies cross-platform since 2008, presenting about cross-platform adventures since 2009.  Sarah also speaks on user experience, mentoring, the history of women in tech, and various software development concepts.  From tech support to IT to software development, Sarah can apply her love for technology in various arenas.  You can find Sarah primarily attending, speaking at, and organizing various user groups and developer events.",
+    "Biography": "Sarah Dutkiewicz is a cross-platform technologist.  Whether it’s  following her technical curiosity down paths such as playing with R Tools for Visual Studio while learning R on Coursera or learning serverless concepts and playing with other programming languages, Sarah loves to find ways to incorporate tools wherever she goes, on whatever platform.  She has been working with Microsoft’s technologies cross-platform since experimenting with IronPython in 2008 and presenting about it on Linux at PyCon 2009.  In the cross-platform adventures, Sarah has also tried Visual Studio for Mac and writing C# code with .NET Core on Linux.  Sarah speaks on user experience, mentoring, leadership, the history of women in tech, and various software development concepts.  From tech support to IT to software development, Sarah can apply her love for technology in various arenas.  You can find Sarah primarily attending, speaking at, and organizing various user groups and developer events.  Sarah is the owner of Cleveland Tech Consulting, LLC.",
     "GravatarUrl": "//www.gravatar.com/avatar/63ff8127b010498c1a8a729f800d38f6",
     "TwitterLink": "https://twitter.com/sadukie",
     "GitHubLink": "https://github.com/sadukie",
@@ -960,7 +960,7 @@
     "Id": "da797d88-12b2-487c-8c28-27ad526a6943",
     "FirstName": "Zev",
     "LastName": "Goldstein",
-    "Biography": "Polyglot technologist, Go language contributor, and amatuer songwriter. With 6 years experience leading infrastructure direction at Bloomberg LP, Zev now spends his time as co-founder and CTO of internet democracy startup Mockracy.",
+    "Biography": "Polyglot technologist, Go language contributor, and amatuer songwriter. With 6 years experience leading infrastructure direction at Bloomberg LP, Zev now spends his time as co-founder and CTO of internet democracy startup Appleseed.vote.",
     "GravatarUrl": "//www.gravatar.com/avatar/ce245cdc48901d2dcbde027dc15796dc",
     "TwitterLink": "https://twitter.com/zevdg",
     "GitHubLink": "https://github.com/zevdg",
@@ -1200,21 +1200,6 @@
     ]
   },
   {
-    "Id": "7557c870-5bdc-46fb-a675-bfa87c3e92cc",
-    "FirstName": "David",
-    "LastName": "Hoerster",
-    "Biography": "David Hoerster, a former 6-time C# MVP, is a recovering corporate financial analyst and has been working with the Microsoft.NET Framework since the early 1.0 betas. He is the leader of the Pittsburgh Reactive Systems user group (http://meetup.com/reactive), the former president of the Pittsburgh .NET User’s Group (PGHDOTNET) and is also a regular speaker at Pittsburgh and regional user group and community conference events. David can be found rarely blogging at http://blog.agileways.com and tweets occasionally at @DavidHoerster.",
-    "GravatarUrl": "//www.gravatar.com/avatar/a007ab3dc89f80c08655bc626fb37fc7",
-    "TwitterLink": "https://twitter.com/davidhoerster",
-    "GitHubLink": "https://github.com/davidhoerster",
-    "LinkedInProfile": "https://linkedin.com/in/DavidHoerster",
-    "BlogUrl": "http://blog.agileways.com",
-    "SessionIds": [
-      "7333",
-      "7339"
-    ]
-  },
-  {
     "Id": "4b729e74-575f-42dc-814e-6c5068df7422",
     "FirstName": "Christina",
     "LastName": "Holland",
@@ -1246,12 +1231,12 @@
     "Id": "1e3a9d81-bd1c-47ad-b068-3c2064f62050",
     "FirstName": "Cory",
     "LastName": "House",
-    "Biography": "Cory is an international speaker, Pluralsight author, Microsoft MVP, Software Architect, independent consultant, and teacher. He has trained over 10,000 software developers worldwide on best practices like clean coding, front-end development, testing, and software architecture. He currently specializes in ASP.NET, JavaScript and front-end development using React. Cory is author of multiple Pluralsight courses and is active on Twitter as @housecor.",
+    "Biography": "Cory is an international speaker, Pluralsight author, Microsoft MVP, Software Architect, independent consultant, and teacher. He has trained over 10,000 software developers worldwide on best practices like clean coding, front-end development, testing, and software architecture. He currently specializes in ASP.NET, JavaScript and front-end development using React. Cory is principal consultant at reactjsconsulting.com and author of multiple Pluralsight courses and is active on Twitter as @housecor.",
     "GravatarUrl": "//www.gravatar.com/avatar/09e16ce7b4bc21025c9940f5a167cfa9",
     "TwitterLink": "https://twitter.com/housecor",
     "GitHubLink": "https://github.com/coryhouse",
     "LinkedInProfile": "https://www.linkedin.com/in/coryhouse",
-    "BlogUrl": "http://www.bitnative.com",
+    "BlogUrl": "http://www.reactjsconsulting.com",
     "SessionIds": [
       "6752",
       "6895"
@@ -1382,6 +1367,20 @@
     "BlogUrl": "https://8thlight.com/blog/colin-jones/",
     "SessionIds": [
       "7687"
+    ]
+  },
+  {
+    "Id": "dd5e2340-dd73-46d4-8d90-df7f71b05ff7",
+    "FirstName": null,
+    "LastName": "JPMorgan Chase & Co",
+    "Biography": null,
+    "GravatarUrl": "//www.gravatar.com/avatar/53b5f4e63b1b4e7a77282a93e9695cdb",
+    "TwitterLink": "",
+    "GitHubLink": "",
+    "LinkedInProfile": null,
+    "BlogUrl": "https://jpmorganchase.com/techcareers",
+    "SessionIds": [
+      "7900"
     ]
   },
   {
@@ -1545,7 +1544,7 @@
     "Id": "a8e2fa9d-e261-464b-b229-b29b432b3fab",
     "FirstName": "Nick",
     "LastName": "Landry",
-    "Biography": "Nick Landry (@ActiveNick) is a mobility pioneer and former entrepreneur specializing in cross-platform mobile app development for Windows, iOS and Android devices. Nick works at Microsoft as a Senior Technical Evangelist in the New York Metro area. He spent most his career in IT consulting, software and services companies across various technical and business roles, designing, building, managing and selling innovative software products and solutions for the world’s top brands and Fortune 500 companies.\r\nKnown for his dynamic and engaging style, he is a frequent speaker at major software development conferences worldwide, is an active Open Source contributor, and was a 10-year Microsoft MVP prior to joining Microsoft. With 25 years of professional experience, Nick is a certified developer and software architect by trade and specializes in Cross-Platform Mobility, Computer Speech & Bots, IoT, HoloLens & Mixed Reality. He is an active coder, occasional author, avid gamer, loving husband and proud father.",
+    "Biography": "Nick Landry (@ActiveNick) is a mobility pioneer and former entrepreneur specializing in solving technical problems via Mixed Reality, AI and the cloud. Nick works at Microsoft in Commercial Software Engineering (CSE) as a Senior Software Engineer & Technical Evangelist in the New York Metro area. He spent most his career in IT consulting, software and services companies across various technical and business roles, designing, building, managing and selling innovative software solutions for the world’s top brands and Fortune 500 companies.\r\nKnown for his dynamic and engaging style, he is a frequent speaker at major software development conferences worldwide, is an active Open Source contributor, and was a 10-year Microsoft MVP prior to joining Microsoft. With over 25 years of professional experience, Nick is a certified developer and software architect by trade and specializes in HoloLens & Mixed Reality, Cross-Platform Mobility, Computer Speech & Bots, and the Internet of Things. He is an active coder, occasional author, avid gamer, loving husband and proud father.",
     "GravatarUrl": "//www.gravatar.com/avatar/9b19e26c8d504d64a7b28d1bf5c5eb0c",
     "TwitterLink": "https://twitter.com/activenick",
     "GitHubLink": "https://github.com/activenick",
@@ -1669,20 +1668,6 @@
     ]
   },
   {
-    "Id": "f8a4b3df-2165-45b2-b809-c654eb814131",
-    "FirstName": null,
-    "LastName": "Manifest Solutions",
-    "Biography": null,
-    "GravatarUrl": "//www.gravatar.com/avatar/0fcb4f5b664628e63e92caf05404b8a9",
-    "TwitterLink": "",
-    "GitHubLink": "",
-    "LinkedInProfile": null,
-    "BlogUrl": "http://www.manifestcorp.com/",
-    "SessionIds": [
-      "7863"
-    ]
-  },
-  {
     "Id": "3bae9249-e692-4a7d-867b-0c1330a45db4",
     "FirstName": "Jennifer",
     "LastName": "Marsman",
@@ -1713,6 +1698,20 @@
     ]
   },
   {
+    "Id": "baa2dd3b-c27f-4f54-b291-d5c78c89b555",
+    "FirstName": "Jeff",
+    "LastName": "McKenzie",
+    "Biography": "Jeff McKenzie has worked in software development for nearly twenty years, in both freelance and full-time capacities, as a developer and team leader. He enjoys helping others solve problems through technology, whether it's the small business getting on the web for the first time, or a Fortune 500 company expanding its enterprise. Although he started his career using BASIC on an Atari 800, he took a big detour, getting Biology and English degrees before rediscovering programming, with a new thing called the World Wide Web. He is currently Principal Consultant at Cardinal Solutions Group in Columbus, Ohio.",
+    "GravatarUrl": "//www.gravatar.com/avatar/b446e10fd837cbe0a0f11af00a01ac60",
+    "TwitterLink": "https://twitter.com/jeffreymckenzie",
+    "GitHubLink": "https://github.com/mcknz",
+    "LinkedInProfile": "https://www.linkedin.com/in/mcknz",
+    "BlogUrl": null,
+    "SessionIds": [
+      "7423"
+    ]
+  },
+  {
     "Id": "d0a23b1b-a249-43da-a0c1-6b209aaf8bfd",
     "FirstName": "Amber",
     "LastName": "McKenzie",
@@ -1725,20 +1724,6 @@
     "SessionIds": [
       "7164",
       "7165"
-    ]
-  },
-  {
-    "Id": "baa2dd3b-c27f-4f54-b291-d5c78c89b555",
-    "FirstName": "Jeff",
-    "LastName": "McKenzie",
-    "Biography": "Jeff McKenzie has worked in software development for nearly twenty years, in both freelance and full-time capacities, as a developer and team leader. He enjoys helping others solve problems through technology, whether it's the small business getting on the web for the first time, or a Fortune 500 company expanding its enterprise. Although he started his career using BASIC on an Atari 800, he took a big detour, getting Biology and English degrees before rediscovering programming, with a new thing called the World Wide Web. He is currently Principal Consultant at Cardinal Solutions Group in Columbus, Ohio.",
-    "GravatarUrl": "//www.gravatar.com/avatar/b446e10fd837cbe0a0f11af00a01ac60",
-    "TwitterLink": "https://twitter.com/jeffreymckenzie",
-    "GitHubLink": "https://github.com/mcknz",
-    "LinkedInProfile": "https://www.linkedin.com/in/mcknz",
-    "BlogUrl": null,
-    "SessionIds": [
-      "7423"
     ]
   },
   {
@@ -1774,7 +1759,7 @@
     "Id": "6f11f422-0558-4b6b-9d4d-a7e99522a21b",
     "FirstName": "Michael",
     "LastName": "Meadows",
-    "Biography": "Michael has been a professional programmer and architect for fifteen years, and a hacker for much longer. He has served as architect on multiple large-scale, cloud-based, highly regulated application and infrastructure projects. Additionally, Michael has extensive experience building high volume, processor intensive business logic applications using distributed architectures. He is a Principal Consultant at Cardinal Solutions where he doing cool stuff in Azure.",
+    "Biography": "Michael has been a professional programmer and architect for fifteen years, and a hacker for much longer. He has served as architect on multiple large-scale, cloud-based, highly regulated application and infrastructure projects. Additionally, Michael has extensive experience building high volume, processor intensive business logic applications using distributed architectures. He is a developer at PriorAuthNow, where he does cool stuff with Service Fabric.",
     "GravatarUrl": "//www.gravatar.com/avatar/954765ec98d01561285873097362e3ee",
     "TwitterLink": "https://twitter.com/antiarchitect",
     "GitHubLink": "https://github.com/walkingdisaster",
@@ -1877,10 +1862,10 @@
     "Id": "c79ded73-996c-4393-9785-d8dae8dd2394",
     "FirstName": "Doug",
     "LastName": "Morgan",
-    "Biography": "Doug is an XP developer coach, and is an aspiring polyglot. ",
+    "Biography": "Doug is an Engineering coach, whose goal is to help Cleveland companies deliver higher quality software, more frequently.  \r\n\r\nHe is currently working as an independent consultant at Alpenglow Software, LLC. ",
     "GravatarUrl": "//www.gravatar.com/avatar/92bacac7fc45524d4d826e72824ec3c1",
-    "TwitterLink": "https://twitter.com/dougmorgan_",
-    "GitHubLink": "",
+    "TwitterLink": "https://twitter.com/dougmorgancle",
+    "GitHubLink": "https://github.com/dmorgan3405",
     "LinkedInProfile": null,
     "BlogUrl": null,
     "SessionIds": [
@@ -2117,6 +2102,20 @@
     ]
   },
   {
+    "Id": "263bc91e-a7fd-42a0-86bf-11b187143693",
+    "FirstName": null,
+    "LastName": "Pillar Technology",
+    "Biography": null,
+    "GravatarUrl": "//www.gravatar.com/avatar/380394dcd81fa8bb7c6988155cc2dc16",
+    "TwitterLink": "",
+    "GitHubLink": "",
+    "LinkedInProfile": null,
+    "BlogUrl": "https://www.pillartechnology.com",
+    "SessionIds": [
+      "7899"
+    ]
+  },
+  {
     "Id": "90770b73-d1ca-4a19-b1e5-3bffca2a091f",
     "FirstName": "Allison",
     "LastName": "Pollard",
@@ -2335,6 +2334,111 @@
     ]
   },
   {
+    "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+    "FirstName": "CodeMash",
+    "LastName": "Schedule Item",
+    "Biography": null,
+    "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2",
+    "TwitterLink": "",
+    "GitHubLink": "",
+    "LinkedInProfile": null,
+    "BlogUrl": null,
+    "SessionIds": [
+      "7868",
+      "7869",
+      "7870",
+      "7871",
+      "7872",
+      "7873",
+      "7874",
+      "7875",
+      "7876",
+      "7877",
+      "7878",
+      "7879",
+      "7880",
+      "7881",
+      "7882",
+      "7883",
+      "7884",
+      "7885",
+      "7886",
+      "7887",
+      "7888",
+      "7889",
+      "7890",
+      "7891",
+      "7892",
+      "7893",
+      "7894",
+      "7895",
+      "7896",
+      "7897",
+      "7898",
+      "7901",
+      "7902",
+      "7903",
+      "7904",
+      "7905",
+      "7906",
+      "7907",
+      "7908",
+      "7909",
+      "7910",
+      "7911",
+      "7912",
+      "7913",
+      "7914",
+      "7915",
+      "7916",
+      "7917",
+      "7918",
+      "7919",
+      "7920",
+      "7921",
+      "7922",
+      "7923",
+      "7924",
+      "7925",
+      "7926",
+      "7927",
+      "7928",
+      "7929",
+      "7930",
+      "7931",
+      "7932",
+      "7933",
+      "7934",
+      "7935",
+      "7936",
+      "7937",
+      "7938",
+      "7939",
+      "7940",
+      "7941",
+      "7942",
+      "7943",
+      "7944",
+      "7945",
+      "7946",
+      "7947",
+      "7948",
+      "7949",
+      "7950",
+      "7951",
+      "7952",
+      "7953",
+      "7954",
+      "7955",
+      "7956",
+      "7957",
+      "7958",
+      "7959",
+      "7960",
+      "7961"
+    ]
+  },
+  {
     "Id": "57e8f811-ebe9-4d7f-9677-49ca0f027940",
     "FirstName": "Don",
     "LastName": "Schenck",
@@ -2451,7 +2555,7 @@
     "Id": "a2b38879-8e47-4093-bbf8-9644fac04f06",
     "FirstName": "Carla",
     "LastName": "Siler-Maddalena",
-    "Biography": ".NET developer by day and robotics coach by night. For the last 15 years my husband and I been running a small non-profit called Kalamazoo Robotics. We  coach14 competitive robotics teams for kids K-12 with a focus on STEAM, leadership and community involvement. ",
+    "Biography": ".NET developer by day and robotics coach by night. For the last 15 years my husband and I been running a small non-profit called Kalamazoo Robotics. We coach 14 competitive robotics teams for kids K-12 with a focus on STEAM, leadership and community involvement. ",
     "GravatarUrl": "//www.gravatar.com/avatar/365488b842624ac508ff090dfaacaa8d",
     "TwitterLink": "https://twitter.com/techsavvywife",
     "GitHubLink": "",
@@ -2864,7 +2968,7 @@
     "Id": "226902de-b4b9-40fb-8f3f-5ad3443cef3a",
     "FirstName": "John",
     "LastName": "Wright",
-    "Biography": "As 17-year veteran of the software industry, I’ve gained development experience ranging from “shrink-wrapped” software to large, distributed networks using multiple platforms and technologies. I have a wide experience base with software development and management across the entire system lifecycle, including requirements gathering and analysis, architecture design, development, testing, and release. I have a pragmatic approach to and a heavy interest in continuous improvement of people, process, and product.",
+    "Biography": "As a 17-year veteran of the software industry, I’ve gained development experience ranging from “shrink-wrapped” software to large, distributed networks using multiple platforms and technologies. I have a wide experience base with software development and management across the entire system lifecycle, including requirements gathering and analysis, architecture design, development, testing, and release. I have a pragmatic approach to and a heavy interest in continuous improvement of people, process, and product.",
     "GravatarUrl": "//www.gravatar.com/avatar/85a588486bf00a2454d026a9bdf16e07",
     "TwitterLink": "https://twitter.com/wright2tweet",
     "GitHubLink": "",
@@ -2905,29 +3009,15 @@
     ]
   },
   {
-    "Id": "eb0a5953-901e-4dde-84fe-fbfe1d6957d8",
-    "FirstName": "Ted",
-    "LastName": "Young",
-    "Biography": "Ted's a trainer, coding coach, speaker, and author. He’s been in software development for over 25 years, and doing \"extreme programming\" since 2000. Ted's worked for eBay, Google, Apple, and Guidewire Software and is now an independent Java trainer/coach. He specializes in teaching those new to the industry and getting them off on the right foot with a focus on testing, domain-driven design, and learning how to learn.",
-    "GravatarUrl": "//www.gravatar.com/avatar/b0715daff24c1c625733473fae5783d8",
-    "TwitterLink": "https://twitter.com/jitterted",
-    "GitHubLink": "https://github.com/tedyoung",
-    "LinkedInProfile": "https://www.linkedin.com/in/tedmyoung/",
-    "BlogUrl": "http://jitterted.com",
-    "SessionIds": [
-      "7693"
-    ]
-  },
-  {
     "Id": "1453dc65-8f0b-4a59-a6d4-ad896d376fb2",
     "FirstName": "Diane",
-    "LastName": "Zajac-Woodie",
-    "Biography": "I’m Diane Zajac-Woodie, a Business Analyst turned Agile Coach. I’m passionate about helping you grow great teams and build great software. \r\n\r\nI have 13 years of experience helping groups of people transform into high-performing teams. Combined with 7 years of hands-on analysis experience, I know what questions to ask to discover creative solutions that solve real problems. I value communication, collaboration and continuous learning to ensure success. \r\n\r\nAs a frequent presenter, I enjoy teaching and connecting with others who share my passion for improvement. I co-chaired the Collaboration, Culture & Teams track for Agile 2014 and again for Agile 2015. For Agile 2016, I am the Program Chair for the Process at Scale program.\r\n\r\nWhen I’m not at conferences or clients, I like to go hiking in the great outdoors with my husband and two boys. I try not to slow us down by stopping to take too many pictures.",
+    "LastName": "Zajac",
+    "Biography": "Several years ago, Diane traded a career in corporate America for a life of coaching and has never looked back. Drawing from kanban, systems thinking and psychology, Diane teaches teams to practically apply an agile mindset, and in the process, find joy in their work again. As a frequent conference presenter, Diane enjoys connecting with others who share her passion for continuous learning.",
     "GravatarUrl": "//www.gravatar.com/avatar/7a7cc58070c90443e3361f8fb1736b55",
-    "TwitterLink": "https://twitter.com/https://twitter.com/agilesquirrel",
+    "TwitterLink": "https://twitter.com/agilesquirrel",
     "GitHubLink": "",
-    "LinkedInProfile": null,
-    "BlogUrl": "http://www.greenjeansconsulting.com/",
+    "LinkedInProfile": "https://www.linkedin.com/in/diane-zajac-86104529/",
+    "BlogUrl": "http://agilesquirrel.blogspot.com/",
     "SessionIds": [
       "7651"
     ]
