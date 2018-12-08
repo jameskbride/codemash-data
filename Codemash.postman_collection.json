@@ -1,8 +1,7 @@
 {
 	"info": {
-		"name": "Codemash",
 		"_postman_id": "79d9618c-e999-d611-fe4c-19d0c1522626",
-		"description": "",
+		"name": "Codemash",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
@@ -11,28 +10,25 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"body": {},
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
 				"url": {
-					"raw": "https://speakers.codemash.org/api/SessionsData?type=json",
-					"protocol": "https",
+					"raw": "http://localhost:8181/api/v2/mqm7pgek/view/sessions",
+					"protocol": "http",
 					"host": [
-						"speakers",
-						"codemash",
-						"org"
+						"localhost"
 					],
+					"port": "8181",
 					"path": [
 						"api",
-						"SessionsData"
-					],
-					"query": [
-						{
-							"key": "type",
-							"value": "json",
-							"equals": true
-						}
+						"v2",
+						"mqm7pgek",
+						"view",
+						"sessions"
 					]
-				},
-				"description": ""
+				}
 			},
 			"response": []
 		},
@@ -41,28 +37,25 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"body": {},
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
 				"url": {
-					"raw": "https://speakers.codemash.org/api/SpeakersData?type=json",
-					"protocol": "https",
+					"raw": "http://localhost:8181/api/v2/mqm7pgek/view/speakers",
+					"protocol": "http",
 					"host": [
-						"speakers",
-						"codemash",
-						"org"
+						"localhost"
 					],
+					"port": "8181",
 					"path": [
 						"api",
-						"SpeakersData"
-					],
-					"query": [
-						{
-							"key": "type",
-							"value": "json",
-							"equals": true
-						}
+						"v2",
+						"mqm7pgek",
+						"view",
+						"speakers"
 					]
-				},
-				"description": ""
+				}
 			},
 			"response": []
 		}

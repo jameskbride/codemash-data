@@ -12,13 +12,13 @@ let loadExpectation = (jsonFile) => {
 
 var app = express();
 
-app.get('/api/SpeakersData', function(req, res) {
+app.get('/api/v2/mqm7pgek/view/speakers', function(req, res) {
   var data = loadExpectation('/speakers.json');
   console.log(data);
   res.json(data);
 });
 
-app.get('/api/SessionsData', function(req, res) {
+app.get('/api/v2/mqm7pgek/view/sessions', function(req, res) {
   var data = loadExpectation('/sessions.json');
   console.log(data);
   res.json(data);
