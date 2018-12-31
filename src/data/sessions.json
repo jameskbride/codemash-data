@@ -14,6 +14,74 @@
             "answerExtra": null
           }
         ],
+        "id": "99999",
+        "title": "An a really old talk",
+        "description": "This is a really old talk",
+        "startsAt": "2018-01-08T08:00:00",
+        "endsAt": "2018-01-08T12:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "870ab107-e506-49e2-83f4-ba483e72aec6",
+            "name": "Gene Gotimer"
+          }
+        ],
+        "categories": [
+          {
+            "id": 2614,
+            "name": "Session format",
+            "categoryItems": [
+              {
+                "id": 12425,
+                "name": "PreCompiler"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 2615,
+            "name": "Track",
+            "categoryItems": [
+              {
+                "id": 12432,
+                "name": "DevOps"
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 2616,
+            "name": "Level",
+            "categoryItems": [
+              {
+                "id": 12440,
+                "name": "Introductory and overview"
+              }
+            ],
+            "sort": 2
+          },
+          {
+            "id": 2617,
+            "name": "Tags",
+            "categoryItems": [],
+            "sort": 1004
+          }
+        ],
+        "roomId": 2208,
+        "room": "Cypress"
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 250,
+            "question": "KidzMash Age Target",
+            "questionType": 10,
+            "answer": "",
+            "sort": 6,
+            "answerExtra": null
+          }
+        ],
         "id": "64272",
         "title": "A Better, Faster Pipeline for Software Delivery",
         "description": "The software delivery pipeline is the process of taking features from developers and getting them delivered to customers. The earliest tests should be the quickest and easiest to run, giving developers the fastest feedback. Successive rounds of testing should increase confidence that the code is a viable candidate for production and that more expensive tests—be it time, effort, cost—are justified. Manual testing should be performed toward the end of the pipeline, leaving computers to do as much work as possible before people get involved. Although it is tempting to arrange the delivery pipeline in phases (e.g., functional tests, then acceptance tests, then load and performance tests, then security tests), this can lead to problems progressing down the pipeline.\r\n\r\nIn this interactive workshop, you will learn how to arrange your pipeline, automated or not, and so each round of tests provides just enough testing to give you confidence that the next set of tests is worth the investment. You'll explore how to get the right types of testing into your pipeline at the right points so that you can determine which builds are viable candidates for production.\r\n\r\nAttendees should be at least roughly familiar with their current delivery process, or at least have a process in mind. No prior knowledge of DevOps, continuous delivery, or automation is assumed.\r\n",
